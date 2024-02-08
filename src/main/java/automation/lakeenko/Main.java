@@ -5,6 +5,7 @@ public class Main {
 
         System.out.println("Hello Alex!");
     }
-    private static String getMessage
+    private static String getMessage() {
             return "Hello Alex!";
+    }
 }
